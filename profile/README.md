@@ -1,4 +1,10 @@
-## Архив лабораторных работ и других материалов по направлению 09.03.04 «Программная инженерия» в Университете ИТМО
+# Архив лабораторных ИТМО CSE
+
+[![Update archive pulse](https://github.com/mikhalexandr/itmo-cse-labs/actions/workflows/update-archive-pulse.yml/badge.svg)](https://github.com/mikhalexandr/itmo-cse-labs/actions/workflows/update-archive-pulse.yml)
+[![Last commit](https://img.shields.io/github/last-commit/mikhalexandr/itmo-cse-labs?style=flat)](https://github.com/mikhalexandr/itmo-cse-labs/commits/main)
+[![License: MIT](https://img.shields.io/github/license/mikhalexandr/itmo-cse-labs?style=flat)](https://github.com/mikhalexandr/itmo-cse-labs/blob/main/LICENSE.md)
+
+Лабораторные работы и другие материалы по направлению 09.03.04 «Программная инженерия» в Университете ИТМО.
 
 > [!WARNING]
 > Использование материалов целиком или частично без ссылки на автора является нарушением академической этики.
@@ -13,15 +19,31 @@
 >
 > В лабораторных работах также могут встречаться неточности или незначительные ошибки, поэтому лучше использовать этот репозиторий как ориентир и выполнять задания самостоятельно.
 
+<!-- archive-structure:start -->
 ### 1-й курс
 
-| Семестр | Предмет | Репо | Стек |
+| Семестр | Предмет | Папка | Стек |
 | --- | --- | --- | --- |
-| 1 | Информатика | [`informatics`](https://github.com/mikhalexandr-itmo-cse/informatics) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
-| 1-2 | Линейная алгебра | [`linear-algebra`](https://github.com/mikhalexandr-itmo-cse/linear-algebra) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
-| 1-2 | Основы профессиональной деятельности | [`bpa`](https://github.com/mikhalexandr-itmo-cse/bpa) | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white) |
-| 1-2 | Программирование | [`programming`](https://github.com/mikhalexandr-itmo-cse/programming) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| 2 | Базы данных | [`databases`](https://github.com/mikhalexandr-itmo-cse/databases) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| 1 | Информатика | [`informatics/`](https://github.com/mikhalexandr/itmo-cse-labs/tree/main/1_course/informatics/) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
+| 1-2 | Линейная алгебра | [`linear-algebra/`](https://github.com/mikhalexandr/itmo-cse-labs/tree/main/1_course/linear-algebra/) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
+| 1-2 | Основы профессиональной деятельности | [`bpa/`](https://github.com/mikhalexandr/itmo-cse-labs/tree/main/1_course/bpa/) | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white) |
+| 1-2 | Программирование | [`programming/`](https://github.com/mikhalexandr/itmo-cse-labs/tree/main/1_course/programming/) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| 2 | Базы данных | [`databases/`](https://github.com/mikhalexandr/itmo-cse-labs/tree/main/1_course/databases/) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+<!-- archive-structure:end -->
+
+## Пульс архива
+
+<!-- archive-pulse:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/itmo-cse-labs/archive-overview-dark.svg">
+  <img alt="Пульс архива" src="assets/itmo-cse-labs/archive-overview.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/itmo-cse-labs/archive-activity-dark.svg">
+  <img alt="Активность коммитов" src="assets/itmo-cse-labs/archive-activity.svg">
+</picture>
+<!-- archive-pulse:end -->
 
 ## Контакты
 
